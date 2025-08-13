@@ -118,3 +118,8 @@ O projeto ainda está em evolução !
   * LinkedIn: https://www.linkedin.com/in/joaquim-felix-jf
 
 -----
+
+## Licença
+
+Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
+

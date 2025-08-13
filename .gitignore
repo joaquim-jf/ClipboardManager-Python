@@ -1,0 +1,22 @@
+# Pasta do ambiente virtual do Python
+.venv/
+venv/
+
+# Arquivos de cache do Python
+__pycache__/
+*.pyc
+
+# Pasta de configurações do PyCharm
+.idea/
+
+# Arquivos de dados gerados pelo usuário (não devem estar no repositório)
+colasquencia_data.json
+
+# Pasta de saída do auto-py-to-exe / PyInstaller
+/output/
+/build/
+/dist/
+*.spec
+
+# Outros arquivos de sistema
+.DS_Store

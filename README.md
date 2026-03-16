@@ -63,11 +63,9 @@ Se você deseja executar este projeto a partir do código-fonte, siga os passos 
 1.  **Clone o repositório:**
 
     ```bash
-    git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+    git clone https://github.com/joaquim-jf/ClipboardManager-Python
     cd SEU-REPOSITORIO
     ```
-
-    *(Lembre-se de substituir pela URL do seu repositório no GitHub\!)*
 
 2.  **Crie e ative um ambiente virtual:**
 
@@ -83,7 +81,6 @@ Se você deseja executar este projeto a partir do código-fonte, siga os passos 
     ```
 
 3.  **Instale as dependências:**
-    *(Dica: Para criar o arquivo `requirements.txt` no seu projeto, ative seu ambiente virtual e rode `pip freeze > requirements.txt` no terminal.)*
 
     ```bash
     pip install -r requirements.txt
